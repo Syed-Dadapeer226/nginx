@@ -1,5 +1,14 @@
 # 🚀 NGINX Landing Page with Docker
 
+---
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Web Server-Nginx-green?logo=nginx" />
+ <img src="https://img.shields.io/badge/Container-Docker-blue?logo=docker" />
+</p>
+
+---
+
 A modern **NGINX-themed landing page** built using **HTML, CSS, and JavaScript**, containerized with **Docker** and served using **NGINX** running as a **non-root user** for improved security.
 
 ---
