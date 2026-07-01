@@ -67,7 +67,7 @@ Docker version 29.x.x
 # 📂 Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Syed-Dadapeer226/nginx.git
 ```
 
 Move into the project directory:
