@@ -3,8 +3,8 @@
 ---
 
 <p align="center">
- <img src="https://img.shields.io/badge/Web Server-Nginx-green?logo=nginx" />
- <img src="https://img.shields.io/badge/Container-Docker-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
